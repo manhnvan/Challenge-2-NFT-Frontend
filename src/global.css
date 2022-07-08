@@ -1,0 +1,15 @@
+
+
+* {
+  font-size: 14px;
+}
+
+.greeting {
+  font-size: 3rem;
+  font-weight: bold;
+}
+
+.total-supply {
+  font-size: 2rem;
+  font-weight: bold;
+}
